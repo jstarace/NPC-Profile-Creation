@@ -1,0 +1,11 @@
+numpy
+pillow
+pymongo
+pymongo[srv]
+opencv-python
+python-dotenv
+openai
+tiktoken
+ollama
+langchain
+langchain-ollama
